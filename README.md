@@ -1,4 +1,5 @@
 # Cards
+This is a project that will display cards
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
